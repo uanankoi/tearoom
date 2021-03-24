@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="500" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <text id="茶" transform="translate(2 436)" fill="#ffffff" font-size="498" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">茶</tspan></text>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(25 25)" fill="none" stroke="#ffffff" stroke-width="10">
+      <circle cx="225.5" cy="225.5" r="225.5" stroke="none"/>
+      <circle cx="225.5" cy="225.5" r="220.5" fill="none"/>
+    </g>
+  </g>
+</svg>
